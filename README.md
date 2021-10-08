@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Rick and Morty Character-pedia
 
-This porject was created to display information about characters from Rick and Morty including their gender, number of episodes, location, orgin, species, and status. 
+This project was created to display information about characters from Rick and Morty including their gender, number of episodes, location, orgin, species, and status. 
 
 ## Available Scripts
 
