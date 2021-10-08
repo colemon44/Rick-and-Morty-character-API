@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/colemon44/Rick-and-Morty-character-API.git/static/css/main.717d01f3.chunk.css",
-    "main.js": "/colemon44/Rick-and-Morty-character-API.git/static/js/main.299d4ec3.chunk.js",
-    "main.js.map": "/colemon44/Rick-and-Morty-character-API.git/static/js/main.299d4ec3.chunk.js.map",
+    "main.js": "/colemon44/Rick-and-Morty-character-API.git/static/js/main.383dc5d8.chunk.js",
+    "main.js.map": "/colemon44/Rick-and-Morty-character-API.git/static/js/main.383dc5d8.chunk.js.map",
     "runtime-main.js": "/colemon44/Rick-and-Morty-character-API.git/static/js/runtime-main.b7876529.js",
     "runtime-main.js.map": "/colemon44/Rick-and-Morty-character-API.git/static/js/runtime-main.b7876529.js.map",
     "static/js/2.e289ab50.chunk.js": "/colemon44/Rick-and-Morty-character-API.git/static/js/2.e289ab50.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b7876529.js",
     "static/js/2.e289ab50.chunk.js",
     "static/css/main.717d01f3.chunk.css",
-    "static/js/main.299d4ec3.chunk.js"
+    "static/js/main.383dc5d8.chunk.js"
   ]
 }
