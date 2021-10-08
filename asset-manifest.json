@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/colemon44/Rick-and-Morty-character-API.git/static/css/main.717d01f3.chunk.css",
+    "main.js": "/colemon44/Rick-and-Morty-character-API.git/static/js/main.299d4ec3.chunk.js",
+    "main.js.map": "/colemon44/Rick-and-Morty-character-API.git/static/js/main.299d4ec3.chunk.js.map",
+    "runtime-main.js": "/colemon44/Rick-and-Morty-character-API.git/static/js/runtime-main.b7876529.js",
+    "runtime-main.js.map": "/colemon44/Rick-and-Morty-character-API.git/static/js/runtime-main.b7876529.js.map",
+    "static/js/2.e289ab50.chunk.js": "/colemon44/Rick-and-Morty-character-API.git/static/js/2.e289ab50.chunk.js",
+    "static/js/2.e289ab50.chunk.js.map": "/colemon44/Rick-and-Morty-character-API.git/static/js/2.e289ab50.chunk.js.map",
+    "static/js/3.e4c3d753.chunk.js": "/colemon44/Rick-and-Morty-character-API.git/static/js/3.e4c3d753.chunk.js",
+    "static/js/3.e4c3d753.chunk.js.map": "/colemon44/Rick-and-Morty-character-API.git/static/js/3.e4c3d753.chunk.js.map",
+    "index.html": "/colemon44/Rick-and-Morty-character-API.git/index.html",
+    "static/css/main.717d01f3.chunk.css.map": "/colemon44/Rick-and-Morty-character-API.git/static/css/main.717d01f3.chunk.css.map",
+    "static/js/2.e289ab50.chunk.js.LICENSE.txt": "/colemon44/Rick-and-Morty-character-API.git/static/js/2.e289ab50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7876529.js",
+    "static/js/2.e289ab50.chunk.js",
+    "static/css/main.717d01f3.chunk.css",
+    "static/js/main.299d4ec3.chunk.js"
+  ]
+}
