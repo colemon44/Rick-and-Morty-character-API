@@ -104,7 +104,6 @@ function App() {
                   <li>Location: {currentCharacter.location.name}</li>
                   <li>Origin: {currentCharacter.origin.name}</li>
                   <li>Species: {currentCharacter.species}</li>
-                  <li>Type: {currentCharacter.type}</li>
                   <li>Status: {currentCharacter.status}</li>
                 </ul>
               </div>
